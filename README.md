@@ -27,7 +27,7 @@ By the end you can:
 
 | # | Module | Status |
 |---|---|---|
-| 1 | **Why local / on-prem at all** — the honest tradeoffs vs cloud APIs (governance, cost, reproducibility) | 🚧 In progress |
+| 1 | **Why local / on-prem at all** — the honest tradeoffs vs cloud APIs (governance, cost, reproducibility) → [read](modules/01-why-local-on-prem.md) | ✅ Live |
 | 2 | **The hardware reality** — VRAM math, MoE vs dense, and when a 2nd GPU actually helps → [read](https://bric.pe.kr/blog/qwen3-6-35b-a3b-2x-1080-ti-benchmark-2026) | ✅ Live |
 | 3 | **Running models with Ollama (and the gotchas)** — quant choice (Q4 vs Q8), multimodal crashes, reasoning models → [read](https://bric.pe.kr/blog/gemma-4-12b-gtx-1080-ti-q4-vs-q8) | ✅ Live |
 | 4 | **Scaling beyond one box: CPU clusters & MoE** — run 35B–400B with no GPU, and the data bugs that matter more than speed → [read](https://bric.pe.kr/blog/gpu-less-cpu-cluster-llm-extraction-10000-papers) | ✅ Live |
