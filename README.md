@@ -31,7 +31,7 @@ By the end you can:
 | 2 | **The hardware reality** — VRAM math, MoE vs dense, and when a 2nd GPU actually helps → [read](https://bric.pe.kr/blog/qwen3-6-35b-a3b-2x-1080-ti-benchmark-2026) | ✅ Live |
 | 3 | **Running models with Ollama (and the gotchas)** — quant choice (Q4 vs Q8), multimodal crashes, reasoning models → [read](https://bric.pe.kr/blog/gemma-4-12b-gtx-1080-ti-q4-vs-q8) | ✅ Live |
 | 4 | **Scaling beyond one box: CPU clusters & MoE** — run 35B–400B with no GPU, and the data bugs that matter more than speed → [read](https://bric.pe.kr/blog/gpu-less-cpu-cluster-llm-extraction-10000-papers) | ✅ Live |
-| 5 | **Capstone: a private research assistant (RAG over your papers)** — BGE-M3 + Qdrant + a local LLM, fully offline, with citations | 🚧 In progress |
+| 5 | **Capstone: a private research assistant (RAG over your papers)** — BGE-M3 + Qdrant + a local LLM, fully offline, with citations → [**build it**](https://github.com/shoo99/paper-rag) | ✅ Live |
 | 6 | **Honest evaluation: is it good enough for *your* field?** — test on domain questions you already know the answer to (a model can be fluent and confidently wrong) → [see the bioinformatics test](https://bric.pe.kr/blog/gemma-4-12b-gtx-1080-ti-q4-vs-q8) | ✅ Live |
 
 *This is a living handbook — modules marked 🚧 are being written. Star/watch the repo to follow along.*
